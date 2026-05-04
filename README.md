@@ -6,7 +6,7 @@
 ### I'm Yikai(Given Name) YANG(Family Name), and you may call me Erich.
 - ❓ A Computer Science Undergraduate Student...with some interests in DNN & AI & Efficient Deep Learning
 - 🌱 Currently living in Shatin, HKSAR, China.
-- ⚡ Fun fact: Bass Player, have some skills in bartendening, coffee making, cooking, and......maybe with some more skills to find?
+- ⚡ Fun fact: Bass player, have some skills in bartendening, coffee making, cooking, and......maybe with some more to find?
 <br>
 <br>
 <br>
