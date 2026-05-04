@@ -12,4 +12,6 @@
 <br>
 ### Publications!
 On-Policy Optimization with Group Equivalent Preference for Multi-Programming Language Understanding(NeurIPS2025) as a collaborator
-> ***Actually I'm a bit passive, so if you would like to know something more about me...... Just email me😊***
+<br>
+<br>
+***Actually I'm a bit passive, so if you would like to know something more about me...... Just email me😊***
