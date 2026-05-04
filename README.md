@@ -15,4 +15,4 @@ On-Policy Optimization with Group Equivalent Preference for Multi-Programming La
 <br>
 <br>
 
-> ***Actually I'm a bit passive, so if you would like to know something more about me...... Just email me😊***
+> ***Actually I'm a bit introverted, so if you would like to know something more about me...... Just email me😊***
